@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "twitter-community-archive",
+	"name": "Twitter Community Archive",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Plugin to import data from Community Archive",
+	"author": "doaks",
+	"authorUrl": "https://twitter.com/dpinkshadow",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
